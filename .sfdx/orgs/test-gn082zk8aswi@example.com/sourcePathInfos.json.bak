@@ -5,7 +5,7 @@
             "sourcePath": "/Users/jordanmichele/Desktop/geolocation/force-app",
             "isDirectory": true,
             "size": 96,
-            "modifiedTime": 1546725033000,
+            "modifiedTime": 1546723535000,
             "changeTime": 1546723535840,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
@@ -20,7 +20,7 @@
             "sourcePath": "/Users/jordanmichele/Desktop/geolocation/force-app/main",
             "isDirectory": true,
             "size": 96,
-            "modifiedTime": 1546725033000,
+            "modifiedTime": 1546723535000,
             "changeTime": 1546723535842,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
@@ -32,42 +32,44 @@
     [
         "/Users/jordanmichele/Desktop/geolocation/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/jordanmichele/Desktop/geolocation/force-app/main/default",
             "isDirectory": true,
-            "size": 224,
-            "modifiedTime": 1546725033000,
-            "changeTime": 1546724813810,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 224,
+            "modifiedTime": 1546724813000,
+            "changeTime": 1546724813810,
+            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
         }
     ],
     [
         "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1546723537000,
+            "changeTime": 1546723537477,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "size": 96,
-            "modifiedTime": 1546725033000,
-            "changeTime": 1546725033785,
+            "state": "u",
             "isWorkspace": false,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7"
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/jordanmichele/Desktop/geolocation",
         {
-            "state": "u",
             "sourcePath": "/Users/jordanmichele/Desktop/geolocation",
             "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1546723652000,
+            "changeTime": 1546723652226,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
             "isMetadataFile": false,
-            "size": 320,
-            "modifiedTime": 1546725033000,
-            "changeTime": 1546725033779,
+            "state": "u",
             "isWorkspace": true,
-            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0"
+            "isArtifactRoot": false
         }
     ],
     [
@@ -138,14 +140,14 @@
     [
         "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 367,
             "modifiedTime": 1546724808466,
             "changeTime": 1546724808466,
-            "contentHash": "b071ec20604a97ba479618b71dbb93a77a6aea88",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "b071ec20604a97ba479618b71dbb93a77a6aea88"
         }
     ],
     [
@@ -216,170 +218,40 @@
     [
         "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/classes",
         {
+            "state": "u",
             "sourcePath": "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/classes",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1546724813000,
             "changeTime": 1546724813812,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
         }
     ],
     [
         "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/classes/AccountController.cls",
         {
+            "state": "u",
             "sourcePath": "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 293,
             "modifiedTime": 1546724810322,
             "changeTime": 1546724810322,
-            "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e"
         }
     ],
     [
         "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1546724744369,
             "changeTime": 1546724745346,
-            "contentHash": "90ff74999c0787540fd47c4052e748cca6ee6e47",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/aura/AccountLocator",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/aura/AccountLocator",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 352,
-            "modifiedTime": 1546725033000,
-            "changeTime": 1546725033787,
-            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5"
-        }
-    ],
-    [
-        "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1546724931854,
-            "changeTime": 1546724932398,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 155,
-            "modifiedTime": 1546724997224,
-            "changeTime": 1546724997224,
-            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45"
-        }
-    ],
-    [
-        "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 246,
-            "modifiedTime": 1546724931851,
-            "changeTime": 1546724932372,
-            "contentHash": "031f43b37d7bb45e1a9e19859d572e3a7f2d1d85"
-        }
-    ],
-    [
-        "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 130,
-            "modifiedTime": 1546725031471,
-            "changeTime": 1546725031471,
-            "contentHash": "2fa3f93bf37f3124658447a21f90ef4fa79db519"
-        }
-    ],
-    [
-        "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1546724931854,
-            "changeTime": 1546724932402,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1546724931853,
-            "changeTime": 1546724932394,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1546724931852,
-            "changeTime": 1546724932376,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
-        }
-    ],
-    [
-        "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1546724931852,
-            "changeTime": 1546724932380,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jordanmichele/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1546724931853,
-            "changeTime": 1546724932390,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "90ff74999c0787540fd47c4052e748cca6ee6e47"
         }
     ]
 ]
